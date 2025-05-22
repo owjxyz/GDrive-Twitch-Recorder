@@ -1,6 +1,6 @@
 <h1>GDrive Twitch Recorder</h1>
 
-<a href="https://colab.research.google.com/github/owjxyz/Twitch-VOD-to-Gdrive/blob/main/Twitch_VOD_Uploader.ipynb" target="parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/github/owjxyz/GDrive-Twitch-Recorder/blob/main/Twtich-Recorder.ipynb" target="parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 <p>
   Automatically upload Twtich VOD on Google Drive<br>
